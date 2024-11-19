@@ -10,3 +10,11 @@ R= createBrowserRouter e RouterProvider
 
 R= Inserção automática de parametros para criação de arquivos .jsx ou .js em react
 
+#### QUais steps de criação de uma rota?:
+
+>>> Importar as bibliotecas do react router no main.jsx
+>>> Criar uma pasta dedicada com o jsx de cada página
+>>> Importar as páginas no main.jsx
+>>> Criar um array definindo os parâmetros de cada rota
+>>> Acrescentar a tag RouterProvider entre as tags <StrictMode> e acrescentar o array criado como parâmetro da props 'router' 
+
