@@ -1,0 +1,12 @@
+#### Qual arquivo de configuração do React Router no Vite + React, versão atual? (2024)
+
+R= Main.jsx
+
+#### Quais as principais bibliotecas do React Router?
+
+R= createBrowserRouter e RouterProvider
+
+#### Para que serve o comando React Arrow Function Export Component (rafce)?
+
+R= Inserção automática de parametros para criação de arquivos .jsx ou .js em react
+

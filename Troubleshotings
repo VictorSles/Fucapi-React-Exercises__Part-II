@@ -1,0 +1,15 @@
+#### CRIAÇÃO DE PROJETO ####
+
+Se tratando do Vite + React, preciso iniciar com os seguintes comandos:
+
+>>> npm create vite@latest
+
+Ele vai solicitar opções de criação de projeto
+
+#### INICIALIZAÇÃO DE PROJETO ####
+
+DIferente do CRA (Create React App), o Vite + React se inicia com:
+
+>>> npm run dev
+
+
